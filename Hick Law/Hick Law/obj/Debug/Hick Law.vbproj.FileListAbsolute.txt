@@ -1,0 +1,16 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Hick Law\bin\Debug\Hick Law.exe.config
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\bin\Debug\Hick Law.exe.config
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\obj\Debug\Hick_Law.Hick__Law.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\obj\Debug\Hick_Law.Hick_Law___Petunjuk.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\obj\Debug\Hick_Law.Hick_Law_Game.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\obj\Debug\Hick_Law.Hick_Law_Hasil.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\obj\Debug\Hick_Law.Resources.resources
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\obj\Debug\Hick Law.vbproj.GenerateResource.Cache
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\bin\Debug\Hick Law.exe
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\bin\Debug\Hick Law.pdb
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\bin\Debug\Hick Law.xml
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\bin\Debug\Guna.UI.dll
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\obj\Debug\Hick Law.exe
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\obj\Debug\Hick Law.xml
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\obj\Debug\Hick Law.pdb
+D:\Semua Projek VB.Net\Pisahan Modul IMK\Hick Law Project\Hick Law\Hick Law\obj\Debug\Hick Law.vbprojResolveAssemblyReference.cache
