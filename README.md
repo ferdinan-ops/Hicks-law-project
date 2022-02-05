@@ -1,1 +1,3 @@
 # Hicks law project
+
+# Screenshoots
