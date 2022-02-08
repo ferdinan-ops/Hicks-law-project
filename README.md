@@ -1,7 +1,7 @@
 # Hicks law project
 
 <p>Hukum Hick (untuk William Edmund Hick) atau Hukum Hick-Hyman  (untuk Ray Hyman), memprediksi waktu yang dibutuhkan untuk membuat keputusan dalam memilih di antara pilihan yang mungkin. Hukum Hick-Hyman mengukur kapasitas informasi kognitif. Mengingat  n  pilihan yang sama-sama mungkin, waktu reaksi rata-rata  T yang diperlukan untuk memilih di antara mereka adalah kira-kira.</p>
-<p>T = b.log2(n+1)</p>
+<p><b>T = b.log2(n+1)</b></p>
 
 <!-- <h2>What I Use</h2>
 
