@@ -1,6 +1,6 @@
 # Hicks law project
 
-<p>Hick's Law (for William Edmund Hick) or Hick-Hyman's Law (for Ray Hyman), predicts the time it takes to make a decision in choosing between possible options. Hick-Hyman's law measures cognitive information capacity. Given and equally possible choices, the average reaction time T required to choose between them is approx.</p>
+<p>Hukum Hick (untuk William Edmund Hick) atau Hukum Hick-Hyman  (untuk Ray Hyman), memprediksi waktu yang dibutuhkan untuk membuat keputusan dalam memilih di antara pilihan yang mungkin. Hukum Hick-Hyman mengukur kapasitas informasi kognitif. Mengingat  n  pilihan yang sama-sama mungkin, waktu reaksi rata-rata  T yang diperlukan untuk memilih di antara mereka adalah kira-kira.</p>
 
 <!-- <h2>What I Use</h2>
 
