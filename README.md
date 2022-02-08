@@ -1,7 +1,7 @@
 # Hicks law project
 
 <p>Hukum Hick (untuk William Edmund Hick) atau Hukum Hick-Hyman  (untuk Ray Hyman), memprediksi waktu yang dibutuhkan untuk membuat keputusan dalam memilih di antara pilihan yang mungkin. Hukum Hick-Hyman mengukur kapasitas informasi kognitif. Mengingat  n  pilihan yang sama-sama mungkin, waktu reaksi rata-rata  T yang diperlukan untuk memilih di antara mereka adalah kira-kira.</p>
-<h3>T = b.log2(n+1)</h3>
+<h2>T = b.log2(n+1)</h2>
 <p>Kurva waktu reaksi adalah logaritmik karena untuk pencarian cepat kita membagi pilihan ke dalam kategori, melewatkan setengah dari pilihan pada setiap langkah daripada mempertimbangkan setiap pilihan satu per satu. Untuk menemukan perintah yang diberikan dalam menu yang dipesan secara acak, memindai setiap perintah sangat penting, membutuhkan waktu linier, sehingga hukum Hick tidak berlaku di sini. Tetapi jika daftar dipesan, kita dapat mencari dan memilih dengan membagi strategi yang bekerja dalam waktu logaritmik.</p>
 <p>Hukum Hick berlaku untuk desain menu. Ini membantu dalam merancang hierarki menu dan kedalaman. Ketika kita memiliki terlalu banyak pilihan (hierarki panjang seperti yang ditunjukkan pada tangkapan layar di bawah ini) kita perlu mengkategorikan item secara kognitif untuk mengurangi waktu yang dibutuhkan untuk memilih item pada tahap apa pun. Fungsi logaritmik Hukum Hick menentukan kedalaman hierarki pohon menu.</p>
 
