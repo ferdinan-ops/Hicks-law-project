@@ -9,7 +9,7 @@
 <ul>
     <li><b>Programing Language:</b> Visual Basic.</li>
     <li><b>Framework:</b> GUNA UI.</li>
-    <li><b></b></li>
+    <li><b>Pictures:</b> Dribble, Pinterset, Flaticon.</li>
     <li><b></b></li>
 </ul>
 <!-- <h2>Goals</h2> -->
