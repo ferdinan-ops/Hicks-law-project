@@ -6,7 +6,12 @@
 <p>Hukum Hick berlaku untuk desain menu. Ini membantu dalam merancang hierarki menu dan kedalaman. Ketika kita memiliki terlalu banyak pilihan (hierarki panjang seperti yang ditunjukkan pada tangkapan layar di bawah ini) kita perlu mengkategorikan item secara kognitif untuk mengurangi waktu yang dibutuhkan untuk memilih item pada tahap apa pun. Fungsi logaritmik Hukum Hick menentukan kedalaman hierarki pohon menu.</p>
 
  <h2>What I Use</h2>
-
+<ul>
+    <li><b></b></li>
+    <li><b></b></li>
+    <li><b></b></li>
+    <li><b></b></li>
+</ul>
 <!-- <h2>Goals</h2> -->
 
 # Screenshoots
