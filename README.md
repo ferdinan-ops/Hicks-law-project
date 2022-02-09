@@ -9,6 +9,7 @@
 <ul>
     <li><b>Programing Language:</b> Visual Basic.</li>
     <li><b>Framework:</b> GUNA UI.</li>
+    <li><b>IDE:</b> Microsoft Visual Studio 2012.</li>
     <li><b>Pictures:</b> Dribble, Pinterset, Flaticon.</li>
     <li><b>References:</b> Dribble.</li>
 </ul>
