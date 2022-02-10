@@ -5,7 +5,7 @@
 <p>Kurva waktu reaksi adalah logaritmik karena untuk pencarian cepat kita membagi pilihan ke dalam kategori, melewatkan setengah dari pilihan pada setiap langkah daripada mempertimbangkan setiap pilihan satu per satu. Untuk menemukan perintah yang diberikan dalam menu yang dipesan secara acak, memindai setiap perintah sangat penting, membutuhkan waktu linier, sehingga hukum Hick tidak berlaku di sini. Tetapi jika daftar dipesan, kita dapat mencari dan memilih dengan membagi strategi yang bekerja dalam waktu logaritmik.</p>
 <p>Hukum Hick berlaku untuk desain menu. Ini membantu dalam merancang hierarki menu dan kedalaman. Ketika kita memiliki terlalu banyak pilihan (hierarki panjang seperti yang ditunjukkan pada tangkapan layar di bawah ini) kita perlu mengkategorikan item secara kognitif untuk mengurangi waktu yang dibutuhkan untuk memilih item pada tahap apa pun. Fungsi logaritmik Hukum Hick menentukan kedalaman hierarki pohon menu.</p>
 
- <h2>What I Use</h2>
+<h2>What I Use</h2>
 <ul>
     <li><b>Programing Language:</b> Visual Basic.</li>
     <li><b>Framework:</b> GUNA UI.</li>
@@ -13,7 +13,8 @@
     <li><b>Pictures:</b> Dribble, Pinterset, Flaticon.</li>
     <li><b>References:</b> Dribble.</li>
 </ul>
-<!-- <h2>Goals</h2> -->
+
+<h2>Goals</h2>
 
 # Screenshoots
 ![Home](https://user-images.githubusercontent.com/84588706/152720377-f600cdc0-1989-40c8-8384-cc2d78e0af4c.jpg)
