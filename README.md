@@ -16,7 +16,7 @@
 
 <h2>Goals</h2>
 <ul>
-    <li></li>
+    <li>Anda akan mengerti bagaimana waktu reaksi untuk membuat pilihan item pada layar komputer, tergantung pada jumlah opsi yang tersedia pada saat itu.</li>
     <li></li>
 </ul>
 
