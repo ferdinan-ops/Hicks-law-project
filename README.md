@@ -27,7 +27,7 @@
         <img src="https://user-images.githubusercontent.com/84588706/152720377-f600cdc0-1989-40c8-8384-cc2d78e0af4c.jpg"
             alt="Home">
     </li>
-    <li>
+<!--    <li>
         <h3>Guide</h3>
         <img src="https://user-images.githubusercontent.com/84588706/152720409-4e60ab1d-2519-43fc-a10a-1bce93cafb60.jpg"
             alt="Guide">
@@ -46,5 +46,5 @@
         <h3>Result</h3>
         <img src="https://user-images.githubusercontent.com/84588706/152720465-a805d010-22ad-4e30-9243-4bcd2dba3f95.jpg"
             alt="Result">
-    </li>
+    </li> -->
 </ul>
