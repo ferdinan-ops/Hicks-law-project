@@ -27,12 +27,12 @@
         <img src="https://user-images.githubusercontent.com/84588706/152720377-f600cdc0-1989-40c8-8384-cc2d78e0af4c.jpg"
             alt="Home">
     </li>
-<!--    <li>
+    <li>
         <h3>Guide</h3>
         <img src="https://user-images.githubusercontent.com/84588706/152720409-4e60ab1d-2519-43fc-a10a-1bce93cafb60.jpg"
             alt="Guide">
     </li>
-    <li>
+<!--    <li>
         <h3>Game</h3>
         <img src="https://user-images.githubusercontent.com/84588706/152720426-887c7bdc-2047-4c16-b789-3ffeb67fc3f9.jpg"
             alt="Game">
